@@ -73,7 +73,7 @@ Then I created an if statement within that for statement:
       
 I then created voter_info which prints the candidate, then the percentage of votes the candidate got, and then the total votes the candidate got. Then I saved that as a text file. Lastly I printed the winning candidate and saved that as a text file as well. The table summarizing the results is below: 
 
-       total votes= 369711
+       Total Votes= 369711
        Charles Casper Stockham: 23.049% (85213)
        Diana DeGette: 73.812% (272892)
        Raymon Anthony Doane: 3.139% (11606)
